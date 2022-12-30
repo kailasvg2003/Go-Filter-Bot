@@ -1,5 +1,5 @@
 {
-    "name": "Go Filter Bot",
+    "name": "『☠』𓄂્͜͡𝞠𝞒𝞓𝞟𝞓𝗩🕊️⃝🦋𝙁⁪⁬𝙄𝙏𝙇𝞝𝞒 𝘽𝙊𝙏",
     "description": "A Simple yet superfast Filter bot written in pure Go",
     "logo": "https://raw.githubusercontent.com/Jisin0/Go-Filter-Bot/logo.jpg",
     "keywords": [
@@ -13,15 +13,15 @@
     "env": {
         "BOT_TOKEN": {
             "description": "Your Bot Token From @BotFather",
-            "value": ""
+            "value": "5835236187:AAFP4OxZVBhrTxsmjjm6p-CAuA3qwLR_4g4"
         },
         "MONGODB_URI": {
             "description": "Your Mongo DB URL Obtained From mongodb.com",
-            "value": ""
+            "value": "mongodb+srv://kailasvg:kailasvg@cluster04.gvju7bn.mongodb.net/?retryWrites=true&w=majority"
         },
         "ADMINS": {
             "description": "A List Ids of bot admins seperated by spaces.",
-            "value": ""
+            "value": "5530347700"
         }
     },
     "buildpacks": [
